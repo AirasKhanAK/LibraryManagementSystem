@@ -1,0 +1,15 @@
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\bin\Release\Librarian.exe
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\bin\Release\Librarian.pdb
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.csprojResolveAssemblyReference.cache
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.bill.resources
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.Book_Issue.resources
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.Form1.resources
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.Form2.resources
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.Form3.resources
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.Form4.resources
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.Properties.Resources.resources
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.Records.resources
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.Registration.resources
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.csproj.GenerateResource.Cache
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.exe
+C:\Users\darkb\documents\visual studio 2015\Projects\Librarian\Librarian\obj\Release\Librarian.pdb
